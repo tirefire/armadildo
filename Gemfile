@@ -7,6 +7,7 @@ gem "jekyll-sitemap"
 gem "jekyll-admin", group: :jekyll_plugins
 gem "jemoji"
 gem "kramdown"
+gem "rake"
 gem "rubocop"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
