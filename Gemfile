@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
+gem "html-proofer"
 gem "jekyll", "3.2.0"
 gem "minima"
 gem "jekyll-sitemap"
